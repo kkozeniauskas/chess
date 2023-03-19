@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+    margin: 1px auto;
+    border-collapse: separate;
+    border-spacing: 20px;
+}
+th,td{
+    text-align: center;
+    
+}
+td{
+    border: 5px solid rgb(208, 19, 19);
+    background: rgb(22, 200, 22);
+    padding: 5px;
+   
+}
+th{
+    border: 5px solid rgb(22, 200, 22);
+    background: rgb(208, 19, 19);
+    padding: 5px;
+}
+div{
+    width: 30px;
+    height: 30px;
+}
+
